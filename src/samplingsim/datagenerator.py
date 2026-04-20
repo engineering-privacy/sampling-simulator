@@ -80,7 +80,6 @@ class RecordsGenerator:
         
         self.patient_ids = []
         # 1. validate mode + inputs
-    # 1. validate mode + inputs
         if self.mode == "percentage":
             if mislabelled_percentage is None:
                 raise ValueError("mislabelled_percentage is required in percentage mode")

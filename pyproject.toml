@@ -1,0 +1,6 @@
+[project]
+name = "sampling-simulator"
+version = "0.1.0"
+description = "Simulation tool for evaluating sampling strategies for detecting data errors"
+authors = [{name="privacy-engineer.ing"}]
+requires-python = ">=3.10"
